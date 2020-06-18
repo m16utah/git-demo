@@ -1,7 +1,8 @@
-﻿sdsdfasdf sdf
+sdsdfasdf sdf
 asdfsdafasdfa
 уточка кря-кря
 коровка му-му
+<<<<<<< HEAD
 <<<<<<< HEAD
 =====
 add fuckin word!! omg////
@@ -9,3 +10,5 @@ add fuckin word!! omg////
 
 а маришка "где мой айфон"
 >>>>>>> 77a97d2736e04d08a24c0f8ba9358337c9542179
+=======
+>>>>>>> parent of 9f1c1e9... fatal error words!
